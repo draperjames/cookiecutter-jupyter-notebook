@@ -1,4 +1,4 @@
-# Jupyter Notebook cookiecutter
+# Jupyter Notebook Cookiecutter
 
 ## How to use:
 
