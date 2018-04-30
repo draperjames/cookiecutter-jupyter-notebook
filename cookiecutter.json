@@ -4,6 +4,6 @@
   "author_email": "your_name@example.com",
   "project_name": "Boilerplate_Project_Name",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
-  "date_created": "{{ from datetime import datetime; '{:%Y-%m-%d %H:%M}'.format(datetime.now()) }}",
+  "date_created": "now",
 	"project_purpose": "One sentence description of project purpose."
 }
