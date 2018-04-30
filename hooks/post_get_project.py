@@ -8,5 +8,5 @@ def remove_file(filepath):
     os.remove(os.path.join(PROJECT_DIRECTORY, filepath))
 
 
-if __name__ == '__main__':
-    remove_file("README.md")
+# if __name__ == '__main__':
+#     remove_file("README.md")
